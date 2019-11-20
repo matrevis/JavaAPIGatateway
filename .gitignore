@@ -13,3 +13,7 @@ buildNumber.properties
 /.metadata/
 
 RemoteSystemsTempFiles/
+
+.recommenders/
+
+clientdb.xml
