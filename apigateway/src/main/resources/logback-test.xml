@@ -8,10 +8,8 @@
     </encoder>
   </appender>
   
-  <logger name="it.trevis.apigateway.InitClassApp" level="debug">
-  </logger>
-  <logger name="it.trevis.apigateway.HelloWorldAPI" level="debug">
-  </logger>
+  <logger name="it.trevis.apigateway.InitClassApp" level="debug"></logger>
+  <logger name="it.trevis.apigateway.HelloWorldAPI" level="debug"></logger>
 
   <root level="debug">
     <appender-ref ref="CONSOLE" />
