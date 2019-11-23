@@ -1,6 +1,4 @@
-# JavaAPIGatateway
-simple api gateway
-
+# JavaRS
 Questo progetto java ha lo scopo di:
 ricevere chiamate http
 scrivere la richiesta in un topic kafka
